@@ -1,0 +1,5 @@
+LLM_MODEL = "llama-3.3-70b-versatile"
+WHISPER_MODEL = "whisper-large-v3-turbo"
+MAX_TOKENS_CHAT = 1024
+MAX_TOKENS_REWRITE = 50
+MAX_TOKENS_SCORE = 256
